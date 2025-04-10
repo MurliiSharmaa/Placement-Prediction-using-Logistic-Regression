@@ -51,11 +51,9 @@ This repository is a part of my learning journey where I’ve applied Logistic R
 📌 Always exploring new tools and techniques in the data world!
 📫 Feel free to connect with me or check out more of my work:
 
-🌐 Portfolio: murli01.web.app
+📧 Email: murli.analyst@gmail.com
 
-📧 Email: mv.sharma2005@gmail.com
-
-💼 LinkedIn: Murli Sharma
+💼 LinkedIn:[ Murli Sharma](https://www.linkedin.com/in/murli-v-sharma/)
 
 
 ## 🙌 Who It's For
